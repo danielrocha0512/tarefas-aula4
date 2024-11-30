@@ -1,6 +1,13 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #008000;
+}
+
 .texto {
     color: rgb(255, 255, 255);
 }
+
 .botao .estilizar-botao {
     border: 1px solid transparent;
     background-color: #8AB364;
