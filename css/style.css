@@ -1,3 +1,21 @@
+<<<<<<< HEAD
 .texto {
     color: rgb(255, 255, 255);
 }
+=======
+.botao .estilizar-botao {
+    border: 1px solid transparent;
+    background-color: #8AB364;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 500ms ease;
+}
+
+.botao .estilizar-botao:hover {
+    background-color: #008000;
+    border: 1px solid;
+}
+
+>>>>>>> br03
